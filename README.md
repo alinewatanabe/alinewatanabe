@@ -37,5 +37,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alinewatanabe}/count.svg" /></p> 
 <br></div>
-
+  
+  <h6>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>, <a href="https://github.com/MatheusAlvarez">Matheus Maia Alvarez</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a><h6>
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
