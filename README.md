@@ -32,8 +32,8 @@
   <a href = "linenwatanabe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>
-<p align="center"><img align="center" scr="https://profile-counter.glitch.me/{alinewatanabe}/count.svg"/></p>
-<br><div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alinewatanabe}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
