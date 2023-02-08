@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/alinewatanabe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinewatanabe&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinewatanabe&layout=compact&hide_border=true&title_color=00bfbf&langs_count=7&theme=radical"/>
+  <img width="49%" height="195epx" src="https://github-readme-stats.vercel.app/api?username=alinewatanabe&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinewatanabe&layout=compact&hide_border=true&title_color=00bfbf&langs_count=7&theme=radical"/>
 </div>
 
 
