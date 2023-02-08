@@ -31,6 +31,8 @@
   <a href="https://github.com/alinewatanabe" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "linenwatanabe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+![Snake animation](https://github.com/alinewatanabe/alinewatanabe/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alinewatanabe}/count.svg" /></p> 
